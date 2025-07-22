@@ -11364,7 +11364,7 @@ OrionLib:Init()
 
 OrionLib:MakeNotification({
     Name = "Itaóca hub KKKKK",
-    Content = "Loading Config Complete!!",
-    Image = "rbxassetid://76635419324913",
+    Content = "Aooo potência",
+    Image = "rbxassetid://136426622118818",
     Time = 5
 })
